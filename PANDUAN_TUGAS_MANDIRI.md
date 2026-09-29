@@ -154,7 +154,7 @@ Total Menu Favorit: 5 menu
 
 ---
 
-## 🌿 Version Control: Minimal 3 Commit Git
+## 🌿 Version Control: Minimal 3 Commit  Git
 
 Kerjakan dan simpan progres tugas ini dalam minimal **3 tahap commit**:
 
